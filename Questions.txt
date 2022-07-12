@@ -1,0 +1,11 @@
+
+# Five Questions 
+
+# Order dataset
+
+1. Which type ship mode most of the customer used.
+2. In which city state region most of the order was booked.
+3. Which category product have height sales?
+4. which segment of consumer have ordered the most and what was the product?
+5. what is the count of ASIA PACIFIC product in the market and who have high order 
+of that product?
